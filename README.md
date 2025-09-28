@@ -1,10 +1,5 @@
 # 🚀 C语言大师进阶系列
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-Language-Expert-orange?style=for-the-badge&logo=c&logoColor=white" alt="C Language Expert">
-  <img src="https://img.shields.io/badge/Level-Advanced-red?style=for-the-badge" alt="Advanced Level">
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" alt="Complete">
-</div>
 
 <div align="center">
   <p>深度解析C语言内核机制与高级编程技巧</p>
